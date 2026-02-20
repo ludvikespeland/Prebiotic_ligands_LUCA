@@ -182,7 +182,7 @@ flowchart TD
     Epre(["PREBIOTIC compound<br>physchem table"])
 
     E7 --> E13
-    Epre --> E13
+    E13 --> Epre
     E13 --> E14
 
     subgraph comparison["Physicochemical comparison"]
