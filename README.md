@@ -6,6 +6,7 @@ for the preprint:
 **Espeland, L. O.**  
 *Prebiotic-type small molecules preferentially bind ancient protein architectures*  
 (preprint, 2026)
+
 https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000335/v1
 
 The aim of this repository is to ensure full transparency and reproducibility of the
@@ -267,7 +268,7 @@ Summarizes similarity distributions for LUCA and non-LUCA targets.
 ## Data files
 
 ### Raw data
-The `data/raw/` directory hosted at Zenodo contains original input files but not external
+The `data/raw/` directory hosted at Zenodo (DOI: 10.5281/zenodo.18475837) contains original input files but not external
 resources (e.g. ChEMBL).
 
 ### Processed data
