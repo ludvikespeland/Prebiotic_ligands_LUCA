@@ -6,6 +6,7 @@ for the preprint:
 **Espeland, L. O.**  
 *Prebiotic-type small molecules preferentially bind ancient protein architectures*  
 (preprint, 2026)
+https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000335/v1
 
 The aim of this repository is to ensure full transparency and reproducibility of the
 computational analyses presented in the manuscript.
